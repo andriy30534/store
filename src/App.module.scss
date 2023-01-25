@@ -1,0 +1,17 @@
+.container{
+ height: 100%;
+
+}
+.content{
+	min-height: 100%;
+	display: flex;
+	flex-direction: column;
+	overflow: auto;
+}
+.main{
+	flex: 1 1 auto;
+	background-color: #E5E5E5
+	
+	
+
+}

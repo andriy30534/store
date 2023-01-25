@@ -1,0 +1,33 @@
+.container {
+	display: flex;
+	justify-content: center;
+	}
+.wrapper {
+	max-width: 869px;
+	}
+.home_container {
+	display: flex;
+	justify-content: center;
+	flex-wrap: wrap;
+	min-height: 670px;
+	
+	}
+	.container_button{
+	display: flex;
+	justify-content: center;
+
+	}
+.button{
+	margin-top: 20px;
+	margin-bottom: 30px;
+	margin-right: 10px;
+	width: 150px;
+	height: 40px;
+	background-color: #148DFD;
+	color: white;
+	border-radius: 4%;
+	cursor: pointer;
+	border: none;
+
+
+}
